@@ -17,3 +17,5 @@ left/right - whichever direction is held at the start of the jump is the directi
 h - if stuck on a wall right of the player gets unstuck
 
 g - if stuck on a wall left of the player gets unstuck
+
+q - quit the game and save's slime position unless quitting after beating the game
